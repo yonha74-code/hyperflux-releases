@@ -1,0 +1,27 @@
+# HYPERFLUX
+
+반중력 기체 20대로 수중 돔 도시·얼음 행성·화산 지대의 코스 여덟 곳을 달리는 레이싱 게임 HYPERFLUX 의
+**윈도우 설치 파일**을 내려받는 곳입니다.
+
+설치 없이 브라우저에서 바로 하려면 → **https://ntsapp.dev/hyperflux/**
+
+## 내려받기
+
+[Releases](https://github.com/yonha74-code/hyperflux-releases/releases/latest) 에서 `HYPERFLUX_<버전>_x64-setup.exe` 를 받아 실행합니다.
+
+- Windows 10 · 11 (64비트). 화면은 WebView2 로 그립니다(윈도우에 기본으로 들어 있고, 없으면 설치 파일이 받아 옵니다).
+- 지금 사용자에게만 설치되어 관리자 권한이 필요 없습니다. 지우려면 `설정 › 앱` 에서 HYPERFLUX 를 제거합니다.
+- 코드 서명 인증서가 없어서 처음 실행할 때 윈도우가 "Windows의 PC 보호" 경고를 띄웁니다.
+  `추가 정보 › 실행` 을 누르면 설치됩니다. 받은 파일이 이곳의 것과 같은지는 릴리스에 적힌 SHA-256 으로 확인할 수 있습니다.
+
+## 하는 법
+
+- 키보드: 방향키(또는 WASD)로 조종, Space 드리프트, Shift 니트로, Esc 일시정지, F11 전체 화면
+- 게임패드: 표준 배치(A 드리프트·고르기, B 니트로·뒤로, RT 가속, LT 감속)
+- 모드: 그랑프리 두 컵, 타임 어택(고스트), 아이템전, 온라인 대전
+
+## 라이선스
+
+[LICENSE.txt](LICENSE.txt) — 게임 코드는 MIT 이며 원작 [ZER0-G](https://github.com/witnesstodark/zer0-g)(Stefan Vaskevich)의
+저작권 표시를 담고 있습니다. 기체·그림·음악·효과음·목소리·글꼴·아이콘의 출처와 라이선스도 같은 파일에 있습니다.
+이 저장소에는 설치 파일과 안내만 있습니다.

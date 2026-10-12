@@ -1,0 +1,122 @@
+HYPERFLUX - a remix of ZER0-G (https://github.com/witnesstodark/zer0-g)
+
+Code: MIT License, below (the original's notice, kept as the licence asks).
+Course data (experience/assets/track*.json): written by the original's tools, MIT with the code.
+Fonts (Orbitron, Press Start 2P) and the bitmap atlases made from them: SIL Open Font License 1.1 (experience/assets/ui/OFL.txt).
+Touch control icons (chevron-left, chevron-right, rotate-cw): Lucide (ISC License; the two chevrons from Feather, MIT), the full notices below.
+Machines, pilot portraits, logo, icons, boards: made for this remix. Machine concepts and pilot portraits drawn locally with FLUX.1 [schnell] by Black Forest Labs (Apache License 2.0); machine shapes by Microsoft TRELLIS (MIT); logo, mode icons and the frames of the boards drawn in code; Blender.
+Machine textures repainted with RealVisXL V5.0 Lightning by SG161222 (CreativeML Open RAIL++-M), with SDXL-Lightning (ByteDance) and ControlNet Union ProMax by xinsir (Apache-2.0), in ComfyUI; cut-outs for TRELLIS by BiRefNet (MIT).
+Hosts (experience/assets/host/: c1, c2, c3, nia, luna, kain): original characters by NTs, the maker of this remix, made in VRoid Studio (their outfits too); not licensed for use elsewhere.
+Music: synthesised for this remix in code.
+Sound effects: CC0 recordings (Kenney Sci-fi / Interface / Digital Audio; Freesound, CC0 only) and sounds synthesised for this remix.
+Announcer: read by Kokoro-82M (Apache License 2.0, https://huggingface.co/hexgrad/Kokoro-82M) and processed for this remix.
+The original's own art, models, music and sounds (CC BY-NC 4.0 / all rights reserved) are not in this build.
+
+----------------------------------------------------------------
+MIT License
+
+Copyright (c) 2026 Stefan Vaskevich
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+This license covers the code. The art, 3D models, music and sound have their
+own terms: see ASSETS-LICENSE.md.
+
+
+----------------------------------------------------------------
+THIRD-PARTY NOTICES (HYPERFLUX)
+================================================================
+
+three.js (the engine, bundled in assets/index-*.js)
+----------------------------------------------------------------
+The MIT License
+
+Copyright © 2010-2026 three.js authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+meshoptimizer's reference decoder (experience/meshopt_decoder.js in the source)
+----------------------------------------------------------------
+This file is part of meshoptimizer library and is distributed under the terms of MIT License.
+Copyright (C) 2016-2026, by Arseny Kapoulkine (arseny.kapoulkine@gmail.com)
+This is the reference decoder implementation by Jasper St. Pierre.
+It follows the decoder interface and should be a drop-in replacement for the actual decoder from meshopt_decoder module
+It is provided for educational value and is not recommended for use in production because it's not performance-optimized.
+MIT License, as its header says (the MIT text as for three.js above, with this copyright).
+
+Lucide icons used by the touch controls (chevron-left, chevron-right, rotate-cw)
+----------------------------------------------------------------
+ISC License
+
+Copyright (c) 2026 Lucide Icons and Contributors
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+The MIT License (MIT) (for chevron-left and chevron-right, derived from Feather)
+
+Copyright (c) 2013-present Cole Bemis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Fonts
+----------------------------------------------------------------
+Orbitron and Press Start 2P, and the bitmap atlases made from Orbitron: SIL Open Font License 1.1, the full text in
+experience/assets/ui/OFL.txt.
