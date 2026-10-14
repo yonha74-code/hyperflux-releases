@@ -7,8 +7,12 @@ Touch control icons (chevron-left, chevron-right, rotate-cw): Lucide (ISC Licens
 Machines, pilot portraits, logo, icons, boards: made for this remix. Machine concepts and pilot portraits drawn locally with FLUX.1 [schnell] by Black Forest Labs (Apache License 2.0); machine shapes by Microsoft TRELLIS (MIT); logo, mode icons and the frames of the boards drawn in code; Blender.
 Machine textures repainted with RealVisXL V5.0 Lightning by SG161222 (CreativeML Open RAIL++-M), with SDXL-Lightning (ByteDance) and ControlNet Union ProMax by xinsir (Apache-2.0), in ComfyUI; cut-outs for TRELLIS by BiRefNet (MIT).
 Hosts (experience/assets/host/: c1, c2, c3, nia, luna, kain): original characters by NTs, the maker of this remix, made in VRoid Studio (their outfits too); not licensed for use elsewhere.
-Music: synthesised for this remix in code.
-Sound effects: CC0 recordings (Kenney Sci-fi / Interface / Digital Audio; Freesound, CC0 only) and sounds synthesised for this remix.
+Music (trimmed, looped and levelled for the game; sources/music_cc/LICENSES.md):
+  "Soaring", "Cyberpunk_City" and "Rapid5" by PeriTune (https://peritune.com), CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+  "Thrust Sequence" by Matthew Pablo (http://www.matthewpablo.com, https://opengameart.org/content/thrust-sequence), CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+  "Retroracing Results, Score" by Bogart VGM (https://opengameart.org/content/retroracing-results-score), CC BY 4.0
+  "疾風のユーロビート" (Hayate no Eurobeat) by マニーラ / Manyla (https://opentracks.com/bgm/detail/14478), under the OpenTracks licence (https://opentracks.com/help/articles/license/)
+Sound effects: from the Sonniss GDC Game Audio Bundles (Fox Audio Post-Production, David Dumais Audio, PMSFX, Gamemaster Audio, Airborne Sound, SoundBits, Baxter Audio, Bluezone, G4F SFX, Chris Logsdon; https://sonniss.com/gdc-bundle-license/), Mixkit (https://mixkit.co/license/modal/sfxFree/), Freesound CC0 recordings (Pól, cognito perceptu, itmightgetloud) and Kenney (CC0); not to be taken out of the game and redistributed as sound effects (sources/sfx_pro/LICENSES.md).
 Announcer: read by Kokoro-82M (Apache License 2.0, https://huggingface.co/hexgrad/Kokoro-82M) and processed for this remix.
 The original's own art, models, music and sounds (CC BY-NC 4.0 / all rights reserved) are not in this build.
 
